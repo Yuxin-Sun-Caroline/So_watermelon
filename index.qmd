@@ -2,13 +2,10 @@
 title: "STA304-Quarto-Website-Yuxin"
 ---
 
-Hi, I am Yuxin Sun, a third year statistical science student at University of Toronto
----
+Hi, I am Yuxin Sun, a third year statistical science student at University of Toronto. You can contact me through yuxin.sun\@mail.utoronto.ca.
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#like me if you also think waking up early in the morning is a torture.
 
 ```{r}
-1 + 1
+
 ```
