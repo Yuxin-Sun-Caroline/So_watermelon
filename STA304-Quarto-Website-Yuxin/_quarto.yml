@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: doc
+website:
+  title: "STA304-Quarto-Website-Yuxin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: quartz
+    css: styles.css
+    toc: true
+
+editor: visual
+
