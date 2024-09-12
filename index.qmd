@@ -1,0 +1,10 @@
+---
+title: "STA304-Quarto-Website-Yuxin"
+---
+
+Hi, I am Yuxin Sun, a third year statistical science student at University of Toronto. You can contact me through yuxin.sun\@mail.utoronto.ca.
+
+#like me if you also think waking up early in the morning is a torture.
+
+```{r}
+```
